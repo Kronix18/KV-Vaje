@@ -52,18 +52,24 @@ maigret <username>
 ![alt text](image-5.png)
 ![alt text](image-6.png)
 ![alt text](image-7.png)
+
 🔷 Primerjava orodij
 Uporabite oba programa za isto uporabniško ime ter rimerjajte rezultate: katero orodje je našlo več profilov? Katero je dalo bolj pregledne podatke?
-
+- Veliko računov, ki ni mojih, že vem od prej, ker imam veliko različnih uporabniških imen zaradi ponavljanj
 Razmislite: ali sta se našla profila na družbenih omrežjih, kjer tega niste pričakovali?
+- adultsfriendfinder: neka X-rated stran nevem kdo je naredil
 
 ### 📝 Analiza in poročilo
 
 - Primerjajte rezultate Sherlocka in Maigreta. Katere razlike ste opazili? 
+  - Maigret več podatkov pri izpisu, tudi več rezultatov
 - Ali ste našli kakšno občutljivo informacijo (npr. e‑poštni naslov, zasebne slike, telefonsko številko)? Kako bi jo lahko oseba zaščitila pred tem, da je javno dostopna?
+  - Na teh profilih ne.
 
 ## 3️⃣ Refleksija in analiza
 
 - Katere informacije so bile najlažje najdene? Katere je bilo najtežje najti?
 - Kako bi vi sami prilagodili svoje vedenje na spletu, potem ko ste izvedli to vajo?
+  - Že zdaj mirkam, mogoče bi preveril račune iz otroštva kaj je gor (LOL, Roblox...)
 - Ali menite, da je uporaba OSINT orodij etično sporna? V katerih primerih je upravičena?
+  - Čisto odvisno od uprabe. Za phishing, identity theft definitivno sporno, za odkrivanje podaktov v kakšnih težkih kriminalnih primerih pa uporabno
